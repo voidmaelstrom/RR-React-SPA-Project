@@ -3,7 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Intended App flow Diagram
-![Alt text](./React App.svg)
 <img src="./React App.svg">
 
 ## Available Scripts
