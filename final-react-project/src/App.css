@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+.navBar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navBar li {
+  display: inline;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+li:hover {
+  background-color: #a7a5c0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
