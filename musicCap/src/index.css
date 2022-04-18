@@ -13,7 +13,7 @@ body {
   font-weight: bold;
   padding: 5px 40px;
   font-size: 1rem;
-  line-height: 2rem;
+  line-height: .97rem;
   position: relative;
   transition: 0.5s;
 }
@@ -48,7 +48,7 @@ h2 {
 }
 
 h1 {
-  font-family: "Lobster", "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
   font-size: 4em;
   color: #051c33;
 }
